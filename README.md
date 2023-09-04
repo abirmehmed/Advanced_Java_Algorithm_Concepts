@@ -1,6 +1,6 @@
 # Advanced_Java_Algorithm_Concepts
 
-##Introduction to Algorithms
+## Introduction to Algorithms
 
 Algorithms are a fundamental aspect of computer science and play a crucial role in solving complex problems efficiently. In the context of Java programming, understanding algorithms is essential to optimize solutions and enhance application performance.
 An algorithm is a series of well-defined steps that provide a logical and systematic approach to solving a problem. It takes input and produces the desired output by manipulating and processing the data. The goal of an algorithm is to find the most efficient way to solve a problem, using as few resources as possible, such as time and memory.
