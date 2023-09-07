@@ -1,4 +1,6 @@
-//Write a function that takes a string of parentheses as input and determines whether the parentheses are balanced. For example, if the input is "((()))", the output should be true, but if the input is "(()))", the output should be false.
+/* Write a function that takes a string of parentheses as input and determines whether the parentheses
+are balanced. For example, if the input is "((()))", the output should be true, but if the input is 
+"(()))", the output should be false. */
 
 import java.util.Stack;
 
