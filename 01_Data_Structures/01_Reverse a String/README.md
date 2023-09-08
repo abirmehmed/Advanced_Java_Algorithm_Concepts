@@ -1,5 +1,5 @@
 ```
-Reverse a String: Write a function that takes a string as input and returns the reverse of the string. For example, if the input is "hello", the output should be "olleh".
+# Reverse a String: Write a function that takes a string as input and returns the reverse of the string. For example, if the input is "hello", the output should be "olleh".
 ```
 
 
