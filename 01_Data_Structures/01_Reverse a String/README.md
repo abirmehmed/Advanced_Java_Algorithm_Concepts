@@ -1,3 +1,8 @@
+```
+Reverse a String: Write a function that takes a string as input and returns the reverse of the string. For example, if the input is "hello", the output should be "olleh".
+```
+
+
 To reverse a string in Java, you can use the following approach:
 
 ```java
