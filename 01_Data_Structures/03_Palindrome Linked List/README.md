@@ -1,3 +1,7 @@
+```
+Palindrome Linked List: Given a singly linked list, determine if it is a palindrome. For example, if the input is 1 -> 2 -> 2 -> 1, the output should be true.
+```
+
 To determine if a singly linked list is a palindrome, you can use the following approach:
 
 1. Traverse the linked list and store the values of each node in an array or a stack.
