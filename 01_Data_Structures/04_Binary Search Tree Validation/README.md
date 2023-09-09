@@ -1,4 +1,6 @@
-
+#
+Binary Search Tree Validation: Write a function that takes the root of a binary tree as input and determines whether it is a valid binary search tree. For a binary tree to be valid, the left subtree of a node should contain only nodes with values less than the node's value, and the right subtree should contain only nodes with values greater than the node's value.
+#
 
 ```java
 class TreeNode {
