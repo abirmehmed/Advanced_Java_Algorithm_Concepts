@@ -1,7 +1,7 @@
-```
+
 Palindrome Linked List: Given a singly linked list, determine if it is a palindrome.
 For example, if the input is 1 -> 2 -> 2 -> 1, the output should be true.
-```
+
 
 To determine if a singly linked list is a palindrome, you can use the following approach:
 
