@@ -1,3 +1,7 @@
+#
+Largest Rectangle in Histogram: Given an array of non-negative integers representing the heights of bars in a histogram, find the area of the largest rectangle that can be formed within the histogram. For example, if the input is [2, 1, 5, 6, 2, 3], the output should be 10.
+#
+
 The problem you are referring to is known as the "Largest Rectangle in Histogram" problem. This problem can be solved using a stack-based approach in linear time complexity.
 
 Here's the step-by-step algorithm to solve the problem:
