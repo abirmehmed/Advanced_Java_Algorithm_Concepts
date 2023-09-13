@@ -1,3 +1,7 @@
+#
+Implement a Queue using Stack: Implement a queue data structure using two stacks. The queue should support enqueue, dequeue, and peek operations. in java.
+#
+
 To implement a queue using two stacks in Java, we can use one stack for enqueue operations and another stack for dequeue operations. Here's the code:
 
 ```java
