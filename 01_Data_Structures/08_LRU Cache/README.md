@@ -1,3 +1,6 @@
+#
+LRU Cache: Implement an LRU (Least Recently Used) cache, which is a data structure that stores a fixed number of items and evicts the least recently used item when the cache reaches its capacity. The cache should support get and put operations.
+#
 
 Sure! Here's an example implementation of an LRU Cache in Java:
 
