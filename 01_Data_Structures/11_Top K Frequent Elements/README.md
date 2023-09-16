@@ -1,3 +1,6 @@
+#
+op K Frequent Elements: Given an array of integers, find the k most frequent elements. For example, if the input is [1, 1, 1, 2, 2, 3] and k is 2, the output should be [1, 2].
+#
 To find the k most frequent elements in an array of integers, we can use a combination of a HashMap and a PriorityQueue. Here's an example implementation in Java:
 
 ```java
