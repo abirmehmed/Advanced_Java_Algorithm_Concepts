@@ -1,3 +1,6 @@
+#
+Longest Substring Without Repeating Characters: Given a string, find the length of the longest substring without repeating characters. For example, if the input is "abcabcbb", the output should be 3 (which corresponds to the substring "abc").
+#
 Here's an example implementation of finding the length of the longest substring without repeating characters in Java:
 
 ```java
