@@ -1,3 +1,7 @@
+#
+Serialize and Deserialize Binary Tree: Design an algorithm to serialize and deserialize a binary tree. Serialization is the process of converting a binary tree into a string representation, and deserialization is the reverse process. The tree can be serialized in any format of your choice. write the code in java.
+#
+
 To serialize and deserialize a binary tree, one common approach is to use a preorder traversal. Here's an example implementation in Java:
 
 ```java
