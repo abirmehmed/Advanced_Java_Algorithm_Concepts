@@ -1,3 +1,7 @@
+#
+Detect Cycle in a Directed Graph: Given a directed graph, determine whether it contains a cycle. For example, if the input is [[0, 1], [1, 2], [2, 0]], the output should be true, as there is a cycle in the graph.
+#
+
 To detect a cycle in a directed graph, you can use the Depth First Search (DFS) algorithm. Here's an example implementation in Java:
 
 ```java
