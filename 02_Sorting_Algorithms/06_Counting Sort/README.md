@@ -1,4 +1,6 @@
-
+#
+Counting Sort: Implement the counting sort algorithm to sort an array of integers in ascending order.
+#
 
 ```java
 public class CountingSort {
