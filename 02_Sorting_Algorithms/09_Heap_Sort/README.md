@@ -1,4 +1,6 @@
-Certainly! Here's an example of how you can implement the heap sort algorithm in Java to sort an array of integers in ascending order:
+#
+Heap Sort: Implement the heap sort algorithm to sort an array of integers in ascending order.
+#
 
 ```java
 public class HeapSort {
