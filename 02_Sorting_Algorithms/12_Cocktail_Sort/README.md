@@ -1,3 +1,6 @@
+#
+Cocktail Sort: Implement the cocktail sort algorithm (also known as bidirectional bubble sort) to sort an array of integers in ascending order. in java.
+#
 
 ```java
 public class CocktailSort {
