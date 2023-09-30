@@ -1,4 +1,6 @@
-Certainly! Here's an example of how you can implement the Gnome Sort algorithm in Java to sort an array of integers in ascending order:
+#
+Gnome Sort: Implement the gnome sort algorithm to sort an array of integers in ascending order.
+#
 
 ```java
 public class GnomeSort {
