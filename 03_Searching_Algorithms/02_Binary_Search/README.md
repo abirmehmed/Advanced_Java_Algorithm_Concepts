@@ -1,3 +1,6 @@
+#
+Binary Search: Implement the binary search algorithm to find a target element in a sorted array.
+#
 
 ```java
 public class BinarySearch {
