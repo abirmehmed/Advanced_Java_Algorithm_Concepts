@@ -1,4 +1,6 @@
-
+#
+Linear Search: Implement the linear search algorithm to find a target element in an array.
+#
 
 ```java
 public class LinearSearch {
