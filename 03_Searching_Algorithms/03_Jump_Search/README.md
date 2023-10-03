@@ -1,3 +1,6 @@
+#
+Jump Search: Implement the jump search algorithm to find a target element in a sorted array by making a jump of a fixed step size.
+#
 
 ```java
 public class JumpSearch {
