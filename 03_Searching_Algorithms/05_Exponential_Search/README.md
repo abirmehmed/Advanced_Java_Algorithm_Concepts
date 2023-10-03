@@ -1,3 +1,6 @@
+#
+Exponential Search: Implement the exponential search algorithm to find a target element in a sorted array by doubling the search range until a potential range is found.
+#
 
 ```java
 public class ExponentialSearch {
