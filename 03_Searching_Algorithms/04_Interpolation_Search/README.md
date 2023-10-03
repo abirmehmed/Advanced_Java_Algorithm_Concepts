@@ -1,4 +1,6 @@
-
+#
+Interpolation Search: Implement the interpolation search algorithm to find a target element in a sorted array by estimating the position based on the values at the ends.
+#
 ```java
 public class InterpolationSearch {
     public static int interpolationSearch(int[] arr, int target) {
