@@ -1,3 +1,6 @@
+#
+Hashing: Implement a hash-based search algorithm (such as a hash table or hash map) to efficiently retrieve values based on their keys.
+#
 
 ```java
 import java.util.HashMap;
