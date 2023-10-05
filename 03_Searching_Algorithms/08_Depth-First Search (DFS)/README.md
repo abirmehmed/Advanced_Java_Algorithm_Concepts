@@ -1,4 +1,6 @@
-
+#
+Depth-First Search (DFS): Implement the depth-first search algorithm to find a target element in a graph or a tree.
+#
 
 ```java
 import java.util.Stack;
