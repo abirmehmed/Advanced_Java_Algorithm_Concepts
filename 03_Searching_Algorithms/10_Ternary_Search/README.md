@@ -1,3 +1,6 @@
+#
+Ternary Search: Implement the ternary search algorithm to find a target element in a sorted array by dividing the array into three parts.
+#
 
 ```java
 public class TernarySearch {
