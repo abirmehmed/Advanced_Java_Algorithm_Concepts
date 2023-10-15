@@ -1,3 +1,6 @@
+#
+Trie Search: Implement a search operation in a trie data structure, which is used for efficient retrieval of strings based on prefixes.
+#
 
 ```java
 class TrieNode {
