@@ -1,3 +1,6 @@
+#
+Factorial: Write a recursive function to calculate the factorial of a given number.
+#
 
 ```java
 public class Factorial {
