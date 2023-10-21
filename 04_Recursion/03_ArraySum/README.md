@@ -1,4 +1,6 @@
-
+#
+Sum of Array Elements: Write a recursive function to calculate the sum of all elements in an array.
+#
 
 ```java
 public class ArraySum {
