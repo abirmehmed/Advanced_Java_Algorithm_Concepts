@@ -1,3 +1,6 @@
+#
+Binary Search: Write a recursive function to perform binary search on a sorted array.
+#
 
 ```java
 public class BinarySearch {
