@@ -1,4 +1,3 @@
-Certainly! Here's an example of a recursive function in Java to generate all permutations of a given string:
 
 ```java
 import java.util.ArrayList;
