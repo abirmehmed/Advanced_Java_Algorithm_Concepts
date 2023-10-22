@@ -1,3 +1,6 @@
+#
+Palindrome Checker: Write a recursive function to check if a given string is a palindrome.
+#
 
 ```java
 public class PalindromeChecker {
