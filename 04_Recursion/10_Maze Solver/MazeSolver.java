@@ -1,6 +1,3 @@
-#
-Maze Solver: Write a recursive function to solve a maze by exploring all possible paths.
-#
     
 public class MazeSolver {
     private static int[][] maze = {
