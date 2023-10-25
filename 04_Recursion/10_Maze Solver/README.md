@@ -1,3 +1,6 @@
+#
+Maze Solver: Write a recursive function to solve a maze by exploring all possible paths.
+#
 
 ```java
 public class MazeSolver {
