@@ -1,4 +1,6 @@
-
+#
+Subset Generation: Write a recursive function to generate all possible subsets of a given set.in java .
+#
 
 ```java
 import java.util.ArrayList;
