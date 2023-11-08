@@ -1,4 +1,6 @@
-
+#
+Combination Generator: Write a recursive function to generate all combinations of a given set of elements.
+#
 
 ```java
 import java.util.ArrayList;
